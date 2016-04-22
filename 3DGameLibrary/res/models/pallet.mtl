@@ -1,0 +1,41 @@
+# Blender MTL File: 'pallet.blend'
+# Material Count: 3
+
+newmtl pallet_box_mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Downloads\4h3una0twu-europallet\euro_pallet\textures\pallet_planks.png
+map_Bump -bm -0.600000 D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_NRM.png
+map_Ks  D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_SPEC.png
+
+newmtl pallet_mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Downloads\4h3una0twu-europallet\euro_pallet\textures\pallet_planks.png
+map_Bump -bm -0.600000 D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_NRM.png
+map_Ks  D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_SPEC.png
+
+newmtl pallet_mat_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump -bm -0.600000 D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_NRM.png
+map_Kd  D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_AO.png
+map_Ks  D:\\Downloads\\4h3una0twu-europallet\\euro_pallet\\textures\\pallet_planks_SPEC.png
